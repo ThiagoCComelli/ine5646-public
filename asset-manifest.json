@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/INE5646-ecommerce/static/css/main.01d67a2f.css",
+    "main.js": "/INE5646-ecommerce/static/js/main.fdec64ec.js",
+    "index.html": "/INE5646-ecommerce/index.html",
+    "main.01d67a2f.css.map": "/INE5646-ecommerce/static/css/main.01d67a2f.css.map",
+    "main.fdec64ec.js.map": "/INE5646-ecommerce/static/js/main.fdec64ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01d67a2f.css",
+    "static/js/main.fdec64ec.js"
+  ]
+}
